@@ -1,0 +1,1 @@
+Testando abertura de arquivo já gravado!
