@@ -25,3 +25,6 @@ Começando agora os textes com o PYTHONContinuando com os teste de leitura/escrit
 Está será alista de alunos
 --------------------------
 Começando agora os textes com o PYTHONContinuando com os teste de leitura/escrita/gravacao com PYTHON
+Está será alista de alunos
+--------------------------
+Começando agora os textes com o PYTHONContinuando com os teste de leitura/escrita/gravacao com PYTHON
